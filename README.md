@@ -1,2 +1,0 @@
-# testA
-Created with CodeSandbox
